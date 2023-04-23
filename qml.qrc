@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tutorial/SignalSlot/signalslot.qml</file>
+        <file>ViewScreen.qml</file>
+        <file>LoaderScreen.qml</file>
+        <file>Tutorial/Components/components.qml</file>
+        <file>Tutorial/Animations/animations.qml</file>
+        <file>Tutorial/Components/MyButton.qml</file>
+        <file>Tutorial/Animations/AnimationElements/AnimationElements.qml</file>
+        <file>Tutorial/Animations/GroupedAnimations/GroupedAnimations.qml</file>
+        <file>assets/drawing-sky-clouds-wallpaper-preview.jpg</file>
+        <file>assets/home.png</file>
+        <file>assets/left-arrow.png</file>
+        <file>assets/Qt_logo.svg.png</file>
+        <file>assets/soccer-ball-variant.png</file>
+        <file>Tutorial/Authentication/authentication.qml</file>
+    </qresource>
+</RCC>
